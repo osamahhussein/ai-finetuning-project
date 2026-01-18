@@ -1,4 +1,5 @@
-# LLM Fine-Tuning Project
+# Parameter-Efficient Fine-Tuning of TinyLlama Using LoRA
+
 
 This repository contains my final project for the **Generative Artificial Intelligence** course.  
 The project focuses on fine-tuning the **TinyLlama** language model using a small custom question–answer dataset.
