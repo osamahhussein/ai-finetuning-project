@@ -50,3 +50,11 @@ https://colab.research.google.com/github/osamahussein/llm-finetuning-project/blo
 
 All implementation steps are available in the notebook:
 
+## How to Run the Project
+
+1. Open the notebook using the Colab link above.  
+2. Make sure the runtime is set to GPU.  
+3. Run all cells from top to bottom.  
+4. The final cells demonstrate inference using the fine-tuned model.
+
+
